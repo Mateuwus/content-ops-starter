@@ -385,10 +385,9 @@ sections:
           walk-in traffic doubled within a month.”
         tagline: Testimonial 1
         subtitle: Lindiwe M. - Boutique Owner – Cape Town
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
