@@ -339,7 +339,7 @@ sections:
       way.
 
     actions:
-      - label: Get started
+      - label: Partner With Us
         url: /
         icon: arrowRight
         iconPosition: right
