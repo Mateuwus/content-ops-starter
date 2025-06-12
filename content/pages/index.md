@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 100k+
-        subtitle: Numbers Done
+        subtitle: Daily Views
         text: >+
           Your ad reaches thousands of people daily as it travels across the
           city — turning traffic into exposure.
