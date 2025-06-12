@@ -66,7 +66,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 50k
+        title: 100k+
         subtitle: Numbers Done
         text: >+
           Your ad reaches thousands of people daily as it travels across the
