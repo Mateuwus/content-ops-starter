@@ -384,7 +384,7 @@ sections:
           “Motion Ads helped us get seen in places we never reached before. Our
           walk-in traffic doubled within a month.”
         tagline: Testimonial 1
-        subtitle: 'Lindiwe M., Boutique Owner – Cape Town'
+        subtitle: Lindiwe M. - Boutique Owner – Cape Town
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
