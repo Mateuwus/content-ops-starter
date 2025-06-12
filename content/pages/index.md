@@ -243,10 +243,10 @@ sections:
       type: TitleBlock
     subtitle: Advertise on the Move—Literally
     text: >+
-      Every day, hundreds of ride-hailing vehicles travel through your city. We
-      turn those vehicles into high-impact moving billboards—helping your brand
-      get noticed by thousands of potential customers during their daily
-      commute.
+      <div style="text-align: center">Every day, hundreds of ride-hailing
+      vehicles travel through your city. We turn those vehicles into high-impact
+      moving billboards—helping your brand get noticed by thousands of potential
+      customers during their daily commute.</div>
 
     media:
       title: Title of the video
