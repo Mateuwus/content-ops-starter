@@ -381,8 +381,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Motion Ads helped us get seen in places we never reached before. Our
+          walk-in traffic doubled within a month.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
