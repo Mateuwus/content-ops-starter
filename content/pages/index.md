@@ -437,8 +437,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          It’s like having a billboard that follows your customers. Best
-          decision we made for local marketing.
+          "It’s like having a billboard that follows your customers. Best
+          decision we made for local marketing."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
