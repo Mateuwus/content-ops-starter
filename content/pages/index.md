@@ -235,7 +235,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Advertise on the Move—Literally
+      text: Grow Your Business While Others Wait at Robots
       color: text-dark
       styles:
         self:
