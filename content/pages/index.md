@@ -235,7 +235,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Advertise on the Move—Literally
       color: text-dark
       styles:
         self:
