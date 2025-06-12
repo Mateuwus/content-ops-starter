@@ -440,7 +440,7 @@ sections:
           "It’s like having a billboard that follows your customers. Best
           decision we made for local marketing."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Amira S, Event Planner'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
