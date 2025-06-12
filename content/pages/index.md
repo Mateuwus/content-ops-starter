@@ -7,7 +7,7 @@ sections:
       text: Motion Ads
       color: text-dark
       type: TitleBlock
-    subtitle: How Important is Advertising for you?
+    subtitle: How Important is Advertising to you?
     text: >
       **Reach thousands of eyes every day.**
 
