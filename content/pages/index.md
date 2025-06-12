@@ -8,14 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: How Important is Advertising for you?
-    text: >+
+    text: >
       **Reach thousands of eyes every day.**
 
-      Motion Ads turns everyday Uber rides into powerful moving billboards. We
-      help your business grow by advertising it across the city—wherever 
+      Motion Ads turns everyday riding sharing rides into powerful moving
+      billboards. We help your business grow by advertising it across the
+      city—wherever
 
       Branded ride-share vehicles go, your brand goes too.
-
     actions:
       - label: Get started
         altText: ''
