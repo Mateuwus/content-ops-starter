@@ -94,7 +94,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: City Wide
+      - title: CityWide
         subtitle: Coverage
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
