@@ -7,7 +7,9 @@ sections:
       text: Partner With Mobil Ads
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Book a call or message us today to see how Motion Ads can elevate your
+      marketing.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
