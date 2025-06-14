@@ -625,9 +625,17 @@ sections:
       - title: Enterprise Plan
         tagline: Custom pricing
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |+
+          *10+ vehicles, full coverage*
+
+          • Campaign manager included
+
+          • Advanced route targeting
+
+          • Bulk printing discounts
+
+          • Priority support
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
