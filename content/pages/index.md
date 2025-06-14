@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Testimonials
+    subtitle: Smart. Mobile. Effective.
     items:
       - type: FeaturedItem
         title: 100k+
