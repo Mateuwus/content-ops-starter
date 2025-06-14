@@ -459,8 +459,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Our ad was everywhere — literally. People kept telling us they saw
+          our logo on the road."
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
