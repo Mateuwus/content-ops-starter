@@ -564,7 +564,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Starter Plan
-        tagline: R3000 per month
+        tagline: R2999 per month
         subtitle: Get started with visibility at a lower cost
         text: |
           *1 vehicle, partial wrap*
