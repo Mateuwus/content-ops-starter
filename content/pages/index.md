@@ -521,7 +521,7 @@ sections:
           "We didn't expect such fast results. Customers were asking about us
           after just a few days."
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: '— Thabo Nkosi, Freelance Barber – Pretoria CBD'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
