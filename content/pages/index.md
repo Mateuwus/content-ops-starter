@@ -234,7 +234,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Grow Your Business While Others Wait at Robots
       color: text-dark
       styles:
         self:
