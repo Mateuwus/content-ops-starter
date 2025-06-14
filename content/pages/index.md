@@ -521,7 +521,7 @@ sections:
           "We didn't expect such fast results. Customers were asking about us
           after just a few days."
         tagline: Testimonial 6
-        subtitle: '— Thabo Nkosi, Freelance Barber – Pretoria CBD'
+        subtitle: '— G.F, Freelance Barber – Pretoria CBD'
         text: >
           “I advertised my mobile barber service and gained 18 new clients in
           the first week.”
