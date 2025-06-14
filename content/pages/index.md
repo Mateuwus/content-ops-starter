@@ -95,7 +95,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Citywide Coverage
+      - title: Citywide
         subtitle: The Job Stuff
         text: >+
           From suburbs to CBDs, our ride-hailing partners drive where your
