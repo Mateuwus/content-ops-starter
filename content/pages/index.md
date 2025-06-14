@@ -122,10 +122,10 @@ sections:
         type: FeaturedItem
       - title: Affordable Powerful
         subtitle: Advertising
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          High visibility at a fraction of traditional billboard prices. Track
+          results, stay flexible, and scale up anytime.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
