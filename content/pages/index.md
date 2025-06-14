@@ -566,8 +566,7 @@ sections:
       - title: Starter Plan
         tagline: 'R2,500 per month'
         subtitle: This is the item subtitle
-        text: |+
-          R3,000 once-off implementation fee
+        text: |
           *1 vehicle, partial wrap*
 
           • Ideal for small businesses or trials
@@ -575,7 +574,6 @@ sections:
           • Includes basic design, printing & application
 
           • Monthly performance summary
-
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
