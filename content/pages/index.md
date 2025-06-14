@@ -9,10 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Let’s Grow Together
     text: >+
-      We collaborate with small businesses, startups, and agencies to help them
-      reach more people through mobile advertising. Whether you're looking to
-      boost visibility or scale your outreach, we’ll guide you every step of the
-      way.
+      **Reach thousands of eyes every day.**
+
+      Mobil Ads turns everyday Transport service rides into powerful moving
+      billboards. We help your business grow by advertising it across the city -
+      wherever they go, your brand goes too.
 
     actions:
       - label: Get started
