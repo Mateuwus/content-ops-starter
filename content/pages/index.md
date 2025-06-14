@@ -463,10 +463,10 @@ sections:
           our logo on the road."
         tagline: Testimonial 4
         subtitle: '— Sipho M. Co-owner – The Juice Bar, Johannesburg'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          “We targeted central Johannesburg for a 4-week campaign. We saw a 35%
+          increase in walk-ins during that time.”
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
