@@ -326,7 +326,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Partner With Mobil Ads
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
