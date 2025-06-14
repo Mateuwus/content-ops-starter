@@ -522,10 +522,9 @@ sections:
           after just a few days."
         tagline: Testimonial 6
         subtitle: '— Thabo Nkosi, Freelance Barber – Pretoria CBD'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          “I advertised my mobile barber service and gained 18 new clients in
+          the first week.”
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
