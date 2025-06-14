@@ -566,15 +566,12 @@ sections:
       - title: Starter Plan
         tagline: 'R2,500 per month'
         subtitle: This is the item subtitle
-        text: |+
+        text: >
           *1 vehicle, partial wrap*
 
-          • Ideal for small businesses or trials
 
-          • Includes basic design, printing & application
-
-          • Monthly performance summary
-
+          Ideal for small businesses or trials Includes basic design, printing &
+          application Monthly performance summary
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
