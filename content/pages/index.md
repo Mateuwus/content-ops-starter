@@ -597,8 +597,15 @@ sections:
       - title: Business Plan
         tagline: 'R6,000 per month'
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          *3 vehicles, full wraps*
+
+          • Custom wrap design
+
+          • Real-time tracking & analytics
+
+          • City-specific targeting
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
