@@ -462,7 +462,7 @@ sections:
           "Our ad was everywhere — literally. People kept telling us they saw
           our logo on the road."
         tagline: Testimonial 4
-        subtitle: '— Sipho M., Co-owner – The Juice Bar, Johannesburg'
+        subtitle: '— Sipho M. Co-owner – The Juice Bar, Johannesburg'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
