@@ -381,7 +381,7 @@ sections:
           “Mobil Ads helped us get seen in places we never reached before. Our
           walk-in traffic doubled within a month.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: '— Lindiwe M., Boutique Owner – Cape Town'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
