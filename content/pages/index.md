@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Book a call or message us today to see how Motion Ads can elevate your
+      Book a call or message us today to see how Mobil Ads can elevate your
       marketing.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
