@@ -408,7 +408,7 @@ sections:
           “We loved how easy the whole process was. From wrapping to tracking,
           everything was professional.”
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: '— Jason K., Restaurant Franchise Manager'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
