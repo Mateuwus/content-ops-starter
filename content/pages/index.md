@@ -672,9 +672,20 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Have a question or ready to get moving?
-    text: >
+    text: >+
       Leave us a message and we’ll get back to you within 24 hours. Whether
       you're ready to launch or just curious — we’d love to chat.
+
+      Based in the Western Cape
+
+      Cell: 076 569 1355
+
+
+      Email: matthewvdm081\@gmail.com
+
+
+
+
     media:
       fields:
         - name: name
