@@ -58,7 +58,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: What Our Clients Are Saying
+      text: WHY BRANDS CHOOSE US
       color: text-dark
       styles:
         self:
