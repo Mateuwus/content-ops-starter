@@ -492,7 +492,7 @@ sections:
           "This was by far the most cost-effective marketing we’ve done. And it
           worked!"
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: '— Megan Daniels, Marketing Lead – NeoTech, Stellenbosch'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
