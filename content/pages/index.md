@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Partner With Mobile Ads
+      text: Partner With Mobil Ads
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
