@@ -555,7 +555,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Pricing Cards
       color: text-primary
       styles:
         self:
