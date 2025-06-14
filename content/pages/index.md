@@ -8,13 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Let’s Grow Together
-    text: >+
+    text: >
       **Reach thousands of eyes every day.**
+
+
 
       Mobil Ads turns everyday Transport service rides into powerful moving
       billboards. We help your business grow by advertising it across the city -
       wherever they go, your brand goes too.
-
     actions:
       - label: Get started
         altText: ''
