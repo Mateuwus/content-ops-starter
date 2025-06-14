@@ -565,7 +565,7 @@ sections:
     items:
       - title: Starter Plan
         tagline: 'R2,500 per month'
-        subtitle: This is the item subtitle
+        subtitle: Get started with visibility at a lower cost
         text: |
           *1 vehicle, partial wrap*
 
