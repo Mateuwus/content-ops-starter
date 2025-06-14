@@ -284,7 +284,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Real Ads. Real Streets. Real Results.
       color: text-dark
       styles:
         self:
