@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Smart. Mobile. Effective.
+    subtitle: Smart. Mobile. Effective.Turn everyday rides into marketing machines.
     items:
       - type: FeaturedItem
         title: 100k+
