@@ -241,11 +241,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Advertise on the Move—Literally
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Every day, hundreds of ride-hailing vehicles travel through your city. We
+      turn those vehicles into high-impact moving billboards—helping your brand
+      get noticed by thousands of potential customers during their daily
+      commute.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
