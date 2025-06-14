@@ -624,7 +624,7 @@ sections:
         type: FeaturedItem
       - title: Enterprise Plan
         tagline: Custom pricing
-        subtitle: This is the item subtitle
+        subtitle: Request a quote for larger scale needs
         text: |+
           *10+ vehicles, full coverage*
 
