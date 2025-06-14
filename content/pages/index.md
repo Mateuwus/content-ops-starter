@@ -561,7 +561,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Packages built to match your goals and budget
     items:
       - title: Starter Plan
         tagline: R2999 per month
