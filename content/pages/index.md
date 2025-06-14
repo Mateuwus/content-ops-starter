@@ -331,8 +331,10 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We collaborate with small businesses, startups, and agencies to help them
+      reach more people through mobile advertising. Whether you're looking to
+      boost visibility or scale your outreach, we’ll guide you every step of the
+      way.
     actions:
       - label: Get started
         url: /
