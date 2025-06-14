@@ -622,7 +622,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Enterprise Plan
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
