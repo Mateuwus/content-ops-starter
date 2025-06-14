@@ -10,10 +10,12 @@ sections:
     subtitle: >-
       Book a call or message us today to see how Mobil Ads can elevate your
       marketing.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      We collaborate with small businesses, startups, and agencies to help them
+      reach more people through mobile advertising. Whether you're looking to
+      boost visibility or scale your outreach, we’ll guide you every step of the
+      way.
+
     actions:
       - label: Get started
         altText: ''
