@@ -593,7 +593,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Business Plan
-        tagline: 'R6,000 per month'
+        tagline: 'R7,500 per month'
         subtitle: Most popular — great balance of exposure & reach
         text: |+
           *3 vehicles, full wraps*
