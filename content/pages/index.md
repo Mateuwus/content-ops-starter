@@ -7,9 +7,7 @@ sections:
       text: Mobil Ads
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Book a call or message us today to see how Mobil Ads can elevate your
-      marketing.
+    subtitle: Let's
     text: >+
       We collaborate with small businesses, startups, and agencies to help them
       reach more people through mobile advertising. Whether you're looking to
