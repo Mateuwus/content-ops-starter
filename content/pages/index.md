@@ -432,8 +432,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          “It’s like having a billboard that follows your customers. Best
+          decision we made for local marketing.”
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
